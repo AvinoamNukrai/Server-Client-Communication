@@ -11,9 +11,9 @@ After compilation there is an executable file called i.e. sockets, that can be r
   
 ./sockets server <port>
 
-  The way we actully run the program is to open 2 diffrent terminals, one for each - one for the server and one for the client, then to compile the 
-  code and run the above commands. We will accept to see that the server is open for getting for requests from some clients and excute them if needed. 
+The way we actully run the program is to open 2 diffrent terminals, one for each - one for the server and one for the client, then to compile the 
+code and run the above commands. We will accept to see that the server is open for getting for requests from some clients and excute them if needed. 
   
-  The following diagram illustrates the concept of server-to-client communication: 
+The following diagram illustrates the concept of server-to-client communication: 
   
   ![Screenshot 2022-06-20 113146](https://user-images.githubusercontent.com/64755588/174560010-5ce44593-91dd-41bb-9ef8-918337181fa5.png)
