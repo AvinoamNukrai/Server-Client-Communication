@@ -1,4 +1,4 @@
-// Written by Avinoam Nukrai and Idan Shponder- EX5 OS course Hebrew U 2022 spring
+// Written by Avinoam Nukrai - 2022 spring
 
 // Imports
 #include <iostream>
