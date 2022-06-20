@@ -6,7 +6,9 @@ In this project I built software that allows the server and clients to communica
 I have created an executable which based on command line arguments that runs either a client or server at a port given at the command line argument.
 The server will execute terminal commands that the client passes to it through the socket.
 After compilation there is an executable file called i.e. sockets, that can be run as follows:
+
 ./sockets client <port> <terminal_command_to_run>
+  
 ./sockets server <port>
 
   The way we actully run the program is to open 2 diffrent terminals, one for each - one for the server and one for the client, then to compile the 
