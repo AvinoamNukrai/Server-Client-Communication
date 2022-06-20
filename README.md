@@ -7,9 +7,9 @@ I have created an executable which based on command line arguments that runs eit
 The server will execute terminal commands that the client passes to it through the socket.
 After compilation there is an executable file called i.e. sockets, that can be run as follows:
 
-./sockets client <port> <terminal_command_to_run>
+./sockets client <port_number> <terminal_command_to_run>
   
-./sockets server <port>
+./sockets server <port_number>
 
 The way we actully run the program is to open 2 diffrent terminals, one for each - one for the server and one for the client, then to compile the 
 code and run the above commands. We will accept to see that the server is open for getting for requests from some clients and excute them if needed. 
